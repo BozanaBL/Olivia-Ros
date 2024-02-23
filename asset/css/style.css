@@ -1,0 +1,21 @@
+body{
+    font-family: "Raleway", sans-serif;
+}
+
+header{
+    background-image: url("../img/bg-hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-bottom: 10rem;
+    padding-right: 178px;
+    width: auto;
+    height: 630px;
+    padding-left: 810px;
+    padding-top: 110px;
+    
+}
+.section-work img{
+    height: 232px;
+
+}
